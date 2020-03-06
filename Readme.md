@@ -38,4 +38,8 @@
 * [人脸识别](http://b2f0d0e9.wiz03.com/share/s/2OYd3F2kzALe2PHFAU1b6ql40X2Spe266krz2Ft6F62vuFf4)
 * [反向传播推导及python代码](https://blog.csdn.net/weixin_38095921/article/details/97376913)、[Softmax交叉熵损失函数反向传播](https://blog.csdn.net/weixin_38095921/article/details/97885432)
 
-
+# 找工作--面试经验
+* [笔试面试涉及到的算法问题都在这了](https://www.processon.com/view/link/5da3fb39e4b09df55010a06d)
+* [C/C++相关的面试问题](https://www.processon.com/view/link/5cf66732e4b0bc8329e833d2)
+* [深度学习会问到的知识](https://www.processon.com/view/link/5d05c7e0e4b0a64c88b5cf54)
+* [机器学习会问到的知识](https://www.processon.com/view/link/5e17ed6ae4b07db4cfb4e818)
