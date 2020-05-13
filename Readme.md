@@ -1,4 +1,5 @@
 > 说明：下面总结的思维导图里面内容很多，都是我自己学习过程中总结的，一定要看一看(*^_^*)。
+![学习路径图](https://github.com/lzwhard/SmartDsp-RoadMap/blob/master/roadmap.png)
 # 计算机基础
 推荐的在线课程：
 * [python](http://www2.cs.arizona.edu/classes/cs110/spring17/lectures.shtml#today)（必选）
