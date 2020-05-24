@@ -1,5 +1,4 @@
-> To my SmartDsp 
-说明：下面总结的思维导图里面内容很多，都是我自己学习过程中总结的，一定要看一看(*^_^*)。
+> 说明：下面总结的思维导图里面内容很多，都是我自己学习过程中总结的，一定要看一看(*^_^*)。To my SmartDsp
 
 ![学习路径图](https://github.com/lzwhard/SmartDsp-RoadMap/blob/master/roadmap.png)
 
